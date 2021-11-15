@@ -1,7 +1,7 @@
 # export environment variables from .env
 include .env
 export
-
+hello
 VENV=infra/venv/bin
 WITH_VENV=source $(VENV)/activate;
 
